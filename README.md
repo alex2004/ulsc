@@ -100,6 +100,7 @@ The URL to the hosted webpage is: http://34.206.52.37/ or http://ec2-34-206-52-3
     
 ## Resources
 https://help.ubuntu.com/community/PostgreSQL
+
 Flask [documentation](http://flask.pocoo.org/docs/0.12/installation/) on virtualenv
 
 tutorialspoint [tutorial](https://www.tutorialspoint.com/postgresql/postgresql_create_database.htm) on creating a database with PostgreSQL
